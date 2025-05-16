@@ -60,3 +60,145 @@ a {
 .page-footer{
     background-color: #2e2f42;
 }
+
+/* ------ section-one ----- */
+
+.section-one {
+    background-color: #2e2f42;
+}
+
+.title-section-one {
+        font-weight: 700;
+        font-size: 56px;
+        line-height: 1.08;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #fff;
+}
+
+.button {
+        font-family: inherit;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.04em;
+        color: #fff;
+        cursor: pointer;
+}
+
+.button:hover,
+.button:focus {
+    background-color:#404BBF;
+}
+
+/* ----- section-two ------*/
+
+.section-two {}
+
+.title-section-two {}
+
+.list-section-two {}
+
+.list-item-section {
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        color: #2e2f42;
+}
+
+.list-text {
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+
+/* --------- section-three -----------*/
+
+.section-three {
+    background-color: #f4f4fd;
+}
+
+.title-section-three {
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 1.11111;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #2e2f42;
+}
+
+.list-section-three {}
+
+.taste-item {}
+
+.taste-image {}
+
+.taste-subtilte {
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #2e2f42;
+}
+
+.taste-text {
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #434455;
+}
+
+/* --------- section-four -----------*/
+
+.section-four {}
+
+.title-section-four {
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 1.11111;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #2e2f42;
+}
+
+.list-section-four {}
+
+.item-images {}
+
+.picture {}
+
+.sudtitle {
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        color: #2e2f42;
+}
+
+.sud-text {
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+
+/*------ footer -----*/
+
+.page-footer {}
+
+.logo {}
+
+.footer-logo {}
+
+.logo-part {}
+
+.page-footer-text {
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #f4f4fd;
+}
