@@ -70,7 +70,7 @@ a {
 .title-section-one {
         font-weight: 700;
         font-size: 56px;
-        line-height: 1.08;
+        line-height: 1.07;
         letter-spacing: 0.02em;
         text-align: center;
         color: #fff;
@@ -84,6 +84,7 @@ a {
         letter-spacing: 0.04em;
         color: #fff;
         cursor: pointer;
+        background-color: #4D5AE5
 }
 
 .button:hover,
@@ -121,15 +122,18 @@ a {
 }
 
 .title-section-three {
+        text-transform: capitalize
         font-weight: 700;
         font-size: 36px;
-        line-height: 1.11111;
+        line-height: 1.11;
         letter-spacing: 0.02em;
         text-align: center;
         color: #2e2f42;
 }
 
-.list-section-three {}
+.list-section-three {
+    background-color: #FFFFFF
+}
 
 .taste-item {}
 
@@ -157,10 +161,11 @@ a {
 .section-four {}
 
 .title-section-four {
+        text-transform: capitalize
         font-weight: 700;
         font-size: 36px;
-        line-height: 1.11111;
-        letter-spacing: 0.02em;
+        line-height: 1.11;
+        letter-spacinggi: 0.02em;
         text-align: center;
         color: #2e2f42;
 }
