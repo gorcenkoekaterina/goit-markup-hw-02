@@ -122,22 +122,24 @@ a {
 }
 
 .title-section-three {
-        text-transform: capitalize
         font-weight: 700;
         font-size: 36px;
         line-height: 1.11;
         letter-spacing: 0.02em;
         text-align: center;
         color: #2e2f42;
+        text-transform: capitalize
 }
 
 .list-section-three {
     background-color: #FFFFFF
 }
 
-.taste-item {}
+.taste-item {
+}
 
-.taste-image {}
+.taste-image {
+}
 
 .taste-subtilte {
         font-weight: 500;
@@ -161,13 +163,13 @@ a {
 .section-four {}
 
 .title-section-four {
-        text-transform: capitalize
         font-weight: 700;
         font-size: 36px;
         line-height: 1.11;
-        letter-spacinggi: 0.02em;
+        letter-spacing: 0.02em;
         text-align: center;
         color: #2e2f42;
+        text-transform: capitalize;
 }
 
 .list-section-four {}
